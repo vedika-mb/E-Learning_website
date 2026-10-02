@@ -1,2 +1,4 @@
 # E-Learning_website
-It is Git and Github first ppt example
+## Project Description
+THis project is a simple E-learning-website.
+It provides learning m,aterials and educational resource for students
